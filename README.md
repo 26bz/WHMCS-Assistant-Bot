@@ -1,3 +1,4 @@
+![Logo](https://github.com/26bz/WHMCS-Assistant-Bot/blob/main/logo.png)
 # WHMCS-Assistant-Bot
 
 Thank you for purchasing WHMCS-Assistant-Bot! Follow the guide below to get your bot up and running.
